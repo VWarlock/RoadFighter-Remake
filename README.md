@@ -37,6 +37,7 @@ finished 7th out the 83 entries. Not too bad for a 2 month project :)
 
 ```
 Copyright © 2017 Andrey A. Ugolnik. All Rights Reserved.
+https://bitbucket.org/andreyu/road-fighter.git
 http://www.ugolnik.info
 andrey@ugolnik.info
 ```
